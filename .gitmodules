@@ -1,0 +1,3 @@
+[submodule "Weather-Travel-planner-backend"]
+	path = Weather-Travel-planner-backend
+	url = https://github.com/Llewellynhtml/Weather-Travel-planner-backend.git
